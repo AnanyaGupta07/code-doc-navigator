@@ -79,7 +79,7 @@ npm run dev
 
 ```
 3. Open UI: http://localhost:3000
-```
+
 
 ## API (summary)
 
