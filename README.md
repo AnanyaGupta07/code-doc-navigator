@@ -1,6 +1,12 @@
 # Code Doc Navigator
+(🚀Demo included below — no setup required)
 
 A minimal **Retrieval-Augmented Generation (RAG)** tool to explore and explain large codebases using **semantic search**.
+
+## Demo
+
+> End-to-end walkthrough of Code Doc Navigator:
+https://github.com/user-attachments/assets/9d5109c3-f7e8-4079-a01d-49d63154d367
 
 ## Overview
 
