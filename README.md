@@ -117,6 +117,7 @@ npm run dev
 ## License & Author
 
 Author: Ananya Gupta  
+Linkedin: https://www.linkedin.com/in/ananya-gupta-tech
 This project is provided for demonstration and learning purposes.
 
 
